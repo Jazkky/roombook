@@ -18,7 +18,7 @@ include("mysql/config.php");
     <div class="container mt-5">
         <div class="card">
             <div class="card-header">
-                <h2 class="mb-0">Booking Room Form</h2>
+                <h2 class="mb-0">Room Booking Form</h2>
             </div>
             <div class="card-body">
                 <form action="books_form.php" method="GET" class="needs-validation" novalidate>
